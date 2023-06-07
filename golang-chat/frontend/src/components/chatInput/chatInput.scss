@@ -1,0 +1,17 @@
+.chatInput{
+
+    display: block;
+    margin: auto;
+    width: 60%;
+
+    h2{
+        margin: 0;
+        padding: 10px;
+        border: none;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        width: 50% ;
+        box-shadow: 0 5px 15px -5px rgba(0, 0, 0, .1);
+    }
+}
